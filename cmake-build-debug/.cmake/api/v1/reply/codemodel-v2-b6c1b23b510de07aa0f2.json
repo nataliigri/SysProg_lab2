@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/nataliiagricisin/Desktop/System Programming/lab2cpp/cmake-build-debug",
-		"source" : "/Users/nataliiagricisin/Desktop/System Programming/lab2cpp"
+		"build" : "/Users/nataliiagricisin/Desktop/System Programming/lab2/cmake-build-debug",
+		"source" : "/Users/nataliiagricisin/Desktop/System Programming/lab2"
 	},
 	"version" : 
 	{
